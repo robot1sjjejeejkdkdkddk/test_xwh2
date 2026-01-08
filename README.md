@@ -2,4 +2,5 @@
 learn code
 第一次写readme
 
-再次修改
+
+删除一句，增加一句
